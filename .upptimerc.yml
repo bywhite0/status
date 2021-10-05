@@ -5,39 +5,20 @@ repo: status # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
   - name: Wikipedia
     url: https://zh.wikipedia.org
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
   - name: Wodemo主站
     url: https://bywhite.wodemo.net
     icon: https://q1.qlogo.cn/g?b=qq&nk=3240558932&s=640&t=1
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
   - name: GitHub分站
     url: https://bywhite0.github.io
     icon: https://q1.qlogo.cn/g?b=qq&nk=3240558932&s=640&t=1
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
   - name: Vercel镜像站
     url: https://bywhite.vercel.app
     icon: https://bywhite0.github.io/heads/icon-apple.jpg
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
-
-
+  - name: Status状态页
+    url: https://bywhite0.github.io/status
+    icon: https://bywhite0.github.io/status/logo-512.png
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -49,9 +30,9 @@ status-website:
   introMessage: 实时更新 | [**我也要整一个！**](https://github.com/upptime/upptime)
   navbar:
     - title: 状态
-      href: /upptime
-    - title: 首页
       href: /
+    - title: 首页
+      href: /status
     - title: 在GitHub查看
       href: https://github.com/$OWNER/$REPO
 
