@@ -67,9 +67,9 @@ i18n:
   averageResponseTimeTitle: 响应时长
   sevelDayResponseTime: 一周响应时长
   responseTimeMs: 响应时长 (ms)
-  up: :white_check_mark:正常
-  down: :warning:异常
-  degraded: 宕机
+  #up: :white_check_mark:正常
+  #down: :warning:异常
+  #degraded: 超时
   ms: ms
   loading: Loading
   navGitHub: GitHub
@@ -103,12 +103,9 @@ i18n:
   url: "URL"
   status: "状态"
   history: "历史"
-  #up: "🟩 在线"
-  
-  degraded: "🟨 超时"
-  
-  #down: "🟥 下线"
-  
+  up: "🟩正常"
+  degraded: "🟨超时"
+  down: "🟥异常"
   responseTimeGraphAlt: "响应时间图表"
   ms: "ms"
   responseTime: "响应时间"
@@ -123,10 +120,10 @@ i18n:
   uptimeYear: "年均联通率"
   #liveStatus: "在线统计"
   liveStatusHtmlComment: "<!--在线统计-->"
-  allSystemsOperational: "🟩 系统运转正常"
-  degradedPerformance: "🟨 响应超时"
-  completeOutage: "🟥 全部异常"
-  partialOutage: "🟧 部分异常"
+  allSystemsOperational: "🟩系统运行正常"
+  degradedPerformance: "🟨响应超时"
+  completeOutage: "🟥系统异常"
+  partialOutage: "🟧部分异常"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
