@@ -74,7 +74,7 @@ i18n:
   loading: Loading
   navGitHub: GitHub
   footer: Powered by [Upptime](https://upptime.js.org) with GitHub Actions, Issues, and Pages.
-  rateLimitExceededTitle: "&#x26a0; &#xfe0f;超过限制"
+  rateLimitExceededTitle: "&#x26a0;&#xfe0f;超过限制"
   rateLimitExceededIntro: "您已经超过了一小时内可以处理的请求数量，因此您必须等待，然后才能再次访问此网站。或者，您可以添加一个GitHub个人访问令牌来继续使用该网站。"
   rateLimitExceededWhatDoesErrorMean: 为什么？
   rateLimitExceededErrorMeaning: 本网站使用GitHub API来访问网站状态的实时数据。默认情况下，GitHub允许每个IP每小时请求60次，您已达到限制。
@@ -86,20 +86,44 @@ i18n:
   rateLimitExceededGitHubPAT: GitHub Personal Access Token
   rateLimitExceededCopyPastePAT: 粘贴你的令牌
   rateLimitExceededSaveToken: 保存令牌
-  errorTitle: 出现错误
-  errorIntro: 试图获取最新状态信息时出错。
-  errorText: 请稍后再试
-  errorHome: 返回首页
-  pastScheduledMaintenance: 以前的定期维护
-  scheduledMaintenance: 定期维护
-  scheduledMaintenanceSummaryStarted: 开始于 $DATE （持续 $DURATION 分钟）
-  scheduledMaintenanceSummaryStarts: 开始于 $DATE （已持续 $DURATION 分钟）
+  errorTitle: 出错了
+  errorIntro: 获取服务器状态信息失败
+  errorText: 你可以过几分钟再试一下
+  errorHome: 回到主页
+  pastScheduledMaintenance: 维护完成
+  scheduledMaintenance: 计划维护
+  scheduledMaintenanceSummaryStarted: 从 $DATE 开始执行并消耗了 $DURATION 分钟
+  scheduledMaintenanceSummaryStarts: 从 $DATE 开始执行并消耗了 $DURATION 分钟
   startedAt: 开始于
   startsAt: 开始于
-  duration: 持续时间
+  duration: 响应时间
   durationMin: $DURATION 分钟
-  incidentCompleted: 已完成
-  incidentScheduled: 预定计划
+  incidentCompleted: 成功
+  incidentScheduled: 等待中
+  url: "URL"
+  status: "状态"
+  history: "历史"
+  #up: "🟩 在线"
+  degraded: "🟨 超时"
+  #down: "🟥 下线"
+  responseTimeGraphAlt: "响应时间图表"
+  ms: "ms"
+  responseTime: "响应时间"
+  responseTimeDay: "日均响应时间"
+  responseTimeWeek: "周均响应时间"
+  responseTimeMonth: "月均响应时间"
+  responseTimeYear: "年均响应时间"
+  uptime: "连通率"
+  uptimeDay: "日均连通率"
+  uptimeWeek: "周均连通率"
+  uptimeMonth: "月均连通率"
+  uptimeYear: "年均联通率"
+  #liveStatus: "在线统计"
+  liveStatusHtmlComment: "<!--在线统计-->"
+  allSystemsOperational: "🟩 系统运转正常"
+  degradedPerformance: "🟨 响应超时"
+  completeOutage: "🟥 全部异常"
+  partialOutage: "🟧 部分异常"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
