@@ -45,7 +45,7 @@ commitMessages:
 
 i18n: 
   activeIncidents: 已激活的事件
-  allSystemsOperational: 系统运行正常。
+  #allSystemsOperational: 系统运行正常。
   incidentReport: "事件记录 #$NUMBER →"
   activeIncidentSummary: 激活于 $DATE （共 $POSTS 条回复）
   incidentTitle: 事件 $NUMBER 详情
@@ -91,8 +91,8 @@ i18n:
   errorHome: 回到主页
   pastScheduledMaintenance: 维护完成
   scheduledMaintenance: 计划维护
-  scheduledMaintenanceSummaryStarted: 从 $DATE 开始执行并消耗了 $DURATION 分钟
-  scheduledMaintenanceSummaryStarts: 从 $DATE 开始执行并消耗了 $DURATION 分钟
+  scheduledMaintenanceSummaryStarted: 从 $DATE 开始执行并持续了 $DURATION 分钟
+  scheduledMaintenanceSummaryStarts: 从 $DATE 开始执行并持续了 $DURATION 分钟
   startedAt: 开始于
   startsAt: 开始于
   duration: 响应时间
