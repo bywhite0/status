@@ -104,8 +104,11 @@ i18n:
   status: "状态"
   history: "历史"
   #up: "🟩 在线"
+  
   degraded: "🟨 超时"
+  
   #down: "🟥 下线"
+  
   responseTimeGraphAlt: "响应时间图表"
   ms: "ms"
   responseTime: "响应时间"
