@@ -5,8 +5,10 @@ repo: status # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+    icon: https://www.iconfinder.com/icons/682665/download/png/4096
   - name: Wikipedia
     url: https://zh.wikipedia.org
+    icon: https://www.iconfinder.com/icons/4375151/download/png/4096
   - name: Wodemo一楼
     url: https://bywhite.wodemo.net
     icon: https://q1.qlogo.cn/g?b=qq&nk=3240558932&s=640&t=1
