@@ -9,13 +9,13 @@ sites:
   - name: Wikipedia
     url: https://zh.wikipedia.org
     icon: https://www.iconfinder.com/icons/4375151/download/png/4096
-  - name: Wodemo一楼
+  - name: Wodemo的一楼
     url: https://bywhite.wodemo.net
     icon: https://q1.qlogo.cn/g?b=qq&nk=3240558932&s=640&t=1
-  - name: GitHub二楼
+  - name: GitHub的二楼
     url: https://bywhite0.github.io
     icon: https://bywhite0.github.io/android-chrome-512x512.png
-  - name: Vercel二楼
+  - name: Vercel的二楼
     url: https://bywhite.vercel.app
     icon: https://q1.qlogo.cn/g?b=qq&nk=1842160491&s=640&t=1
   - name: Status状态页
