@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 67,
+    "timeDay": 52,
     "timeWeek": 83,
     "timeMonth": 88,
     "timeYear": 104,
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 302,
-    "timeDay": 248,
-    "timeWeek": 283,
-    "timeMonth": 292,
+    "timeDay": 206,
+    "timeWeek": 286,
+    "timeMonth": 298,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2022-04-26": 19,
@@ -44,16 +44,16 @@
     "url": "https://bywhite.wodemo.net",
     "icon": "https://q1.qlogo.cn/g?b=qq&nk=3240558932&s=640&t=1",
     "slug": "wodemo",
-    "status": "up",
-    "uptime": "98.28%",
-    "uptimeDay": "48.00%",
+    "status": "down",
+    "uptime": "98.30%",
+    "uptimeDay": "47.99%",
     "uptimeWeek": "46.14%",
-    "uptimeMonth": "86.76%",
-    "uptimeYear": "98.28%",
+    "uptimeMonth": "86.95%",
+    "uptimeYear": "98.30%",
     "time": 9452,
-    "timeDay": 20025,
-    "timeWeek": 19580,
-    "timeMonth": 17591,
+    "timeDay": 20457,
+    "timeWeek": 19566,
+    "timeMonth": 17687,
     "timeYear": 9452,
     "dailyMinutesDown": {
       "2022-05-26": 722,
@@ -63,7 +63,7 @@
       "2022-05-22": 745,
       "2022-05-21": 958,
       "2022-05-20": 865,
-      "2022-05-19": 374
+      "2022-05-19": 289
     }
   },
   {
@@ -78,9 +78,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.73%",
     "time": 624,
-    "timeDay": 996,
-    "timeWeek": 634,
-    "timeMonth": 756,
+    "timeDay": 376,
+    "timeWeek": 628,
+    "timeMonth": 767,
     "timeYear": 624,
     "dailyMinutesDown": {
       "2022-03-14": 95,
@@ -110,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 134,
-    "timeDay": 54,
-    "timeWeek": 249,
-    "timeMonth": 135,
+    "timeDay": 34,
+    "timeWeek": 258,
+    "timeMonth": 139,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2021-11-13": 21
@@ -124,14 +124,14 @@
     "icon": "https://bywhite0.github.io/status/logo-512.png",
     "slug": "status",
     "status": "up",
-    "uptime": "98.27%",
-    "uptimeDay": "48.00%",
+    "uptime": "98.30%",
+    "uptimeDay": "47.98%",
     "uptimeWeek": "46.14%",
-    "uptimeMonth": "86.76%",
-    "uptimeYear": "98.27%",
+    "uptimeMonth": "86.95%",
+    "uptimeYear": "98.30%",
     "time": 145,
-    "timeDay": 162,
-    "timeWeek": 202,
+    "timeDay": 64,
+    "timeWeek": 186,
     "timeMonth": 187,
     "timeYear": 145,
     "dailyMinutesDown": {
@@ -142,7 +142,7 @@
       "2022-05-22": 745,
       "2022-05-21": 958,
       "2022-05-20": 865,
-      "2022-05-19": 374
+      "2022-05-19": 289
     }
   }
 ]
