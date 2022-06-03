@@ -44,12 +44,12 @@
     "url": "https://bywhite.wodemo.net",
     "icon": "https://q1.qlogo.cn/g?b=qq&nk=3240558932&s=640&t=1",
     "slug": "wodemo",
-    "status": "up",
-    "uptime": "98.10%",
-    "uptimeDay": "49.32%",
-    "uptimeWeek": "46.65%",
-    "uptimeMonth": "84.91%",
-    "uptimeYear": "98.10%",
+    "status": "down",
+    "uptime": "98.11%",
+    "uptimeDay": "51.81%",
+    "uptimeWeek": "47.06%",
+    "uptimeMonth": "84.98%",
+    "uptimeYear": "98.11%",
     "time": 11664,
     "timeDay": 16384,
     "timeWeek": 19123,
@@ -64,7 +64,7 @@
       "2022-05-29": 773,
       "2022-05-28": 655,
       "2022-05-27": 1032,
-      "2022-05-26": 413
+      "2022-05-26": 382
     }
   },
   {
@@ -125,11 +125,11 @@
     "icon": "https://bywhite0.github.io/status/logo-512.png",
     "slug": "status",
     "status": "up",
-    "uptime": "98.10%",
-    "uptimeDay": "49.32%",
-    "uptimeWeek": "46.65%",
-    "uptimeMonth": "84.91%",
-    "uptimeYear": "98.10%",
+    "uptime": "98.11%",
+    "uptimeDay": "51.81%",
+    "uptimeWeek": "47.06%",
+    "uptimeMonth": "84.98%",
+    "uptimeYear": "98.11%",
     "time": 145,
     "timeDay": 62,
     "timeWeek": 144,
@@ -144,7 +144,7 @@
       "2022-05-29": 773,
       "2022-05-28": 655,
       "2022-05-27": 1032,
-      "2022-05-26": 413
+      "2022-05-26": 382
     }
   }
 ]
