@@ -44,18 +44,19 @@
     "url": "https://bywhite.wodemo.net",
     "icon": "https://q1.qlogo.cn/g?b=qq&nk=3240558932&s=640&t=1",
     "slug": "wodemo",
-    "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "50.05%",
-    "uptimeWeek": "46.55%",
-    "uptimeMonth": "86.72%",
-    "uptimeYear": "98.38%",
+    "status": "down",
+    "uptime": "98.40%",
+    "uptimeDay": "58.58%",
+    "uptimeWeek": "46.83%",
+    "uptimeMonth": "86.87%",
+    "uptimeYear": "98.40%",
     "time": 13276,
-    "timeDay": 18972,
-    "timeWeek": 18535,
+    "timeDay": 18756,
+    "timeWeek": 18533,
     "timeMonth": 19032,
     "timeYear": 13276,
     "dailyMinutesDown": {
+      "2022-06-12": 0,
       "2022-06-11": 701,
       "2022-06-10": 642,
       "2022-06-09": 905,
@@ -63,7 +64,7 @@
       "2022-06-07": 569,
       "2022-06-06": 951,
       "2022-06-05": 774,
-      "2022-06-04": 458
+      "2022-06-04": 393
     }
   },
   {
@@ -72,11 +73,11 @@
     "icon": "https://bywhite0.github.io/android-chrome-512x512.png",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "97.87%",
+    "uptime": "97.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.87%",
+    "uptimeYear": "97.88%",
     "time": 624,
     "timeDay": 561,
     "timeWeek": 452,
@@ -124,17 +125,18 @@
     "icon": "https://bywhite0.github.io/status/logo-512.png",
     "slug": "status",
     "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "50.05%",
-    "uptimeWeek": "46.55%",
-    "uptimeMonth": "86.72%",
-    "uptimeYear": "98.38%",
+    "uptime": "98.40%",
+    "uptimeDay": "58.58%",
+    "uptimeWeek": "46.83%",
+    "uptimeMonth": "86.87%",
+    "uptimeYear": "98.40%",
     "time": 146,
     "timeDay": 173,
     "timeWeek": 163,
     "timeMonth": 173,
     "timeYear": 146,
     "dailyMinutesDown": {
+      "2022-06-12": 0,
       "2022-06-11": 701,
       "2022-06-10": 642,
       "2022-06-09": 905,
@@ -142,7 +144,7 @@
       "2022-06-07": 569,
       "2022-06-06": 951,
       "2022-06-05": 774,
-      "2022-06-04": 458
+      "2022-06-04": 393
     }
   }
 ]
