@@ -46,17 +46,17 @@
     "slug": "wodemo",
     "status": "up",
     "uptime": "98.52%",
-    "uptimeDay": "63.77%",
-    "uptimeWeek": "54.02%",
-    "uptimeMonth": "87.37%",
+    "uptimeDay": "70.55%",
+    "uptimeWeek": "54.40%",
+    "uptimeMonth": "87.32%",
     "uptimeYear": "98.52%",
     "time": 14559,
-    "timeDay": 20514,
-    "timeWeek": 18862,
-    "timeMonth": 19203,
+    "timeDay": 19736,
+    "timeWeek": 18929,
+    "timeMonth": 19205,
     "timeYear": 14559,
     "dailyMinutesDown": {
-      "2022-06-21": 486,
+      "2022-06-21": 482,
       "2022-06-20": 593,
       "2022-06-19": 747,
       "2022-06-18": 649,
@@ -64,7 +64,7 @@
       "2022-06-16": 547,
       "2022-06-15": 687,
       "2022-06-14": 689,
-      "2022-06-13": 242
+      "2022-06-13": 267
     }
   },
   {
@@ -127,18 +127,18 @@
     "icon": "https://bywhite0.github.io/status/logo-512.png",
     "slug": "status",
     "status": "up",
-    "uptime": "98.54%",
-    "uptimeDay": "62.29%",
-    "uptimeWeek": "53.61%",
-    "uptimeMonth": "87.59%",
-    "uptimeYear": "98.54%",
+    "uptime": "98.52%",
+    "uptimeDay": "69.07%",
+    "uptimeWeek": "53.99%",
+    "uptimeMonth": "87.40%",
+    "uptimeYear": "98.52%",
     "time": 146,
     "timeDay": 136,
     "timeWeek": 147,
     "timeMonth": 162,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2022-06-21": 507,
+      "2022-06-21": 503,
       "2022-06-20": 593,
       "2022-06-19": 747,
       "2022-06-18": 649,
@@ -146,7 +146,7 @@
       "2022-06-16": 568,
       "2022-06-15": 687,
       "2022-06-14": 689,
-      "2022-06-13": 105
+      "2022-06-13": 193
     }
   }
 ]
