@@ -44,16 +44,16 @@
     "url": "https://bywhite.wodemo.net",
     "icon": "https://q1.qlogo.cn/g?b=qq&nk=3240558932&s=640&t=1",
     "slug": "wodemo",
-    "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "53.88%",
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "56.56%",
     "uptimeWeek": "64.90%",
-    "uptimeMonth": "88.80%",
-    "uptimeYear": "98.73%",
+    "uptimeMonth": "88.89%",
+    "uptimeYear": "98.74%",
     "time": 15029,
     "timeDay": 18861,
     "timeWeek": 17849,
-    "timeMonth": 18920,
+    "timeMonth": 18901,
     "timeYear": 15029,
     "dailyMinutesDown": {
       "2022-06-29": 619,
@@ -65,7 +65,7 @@
       "2022-06-23": 878,
       "2022-06-22": 625,
       "2022-06-21": 482,
-      "2022-06-20": 266
+      "2022-06-20": 226
     }
   },
   {
@@ -80,9 +80,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "98.00%",
     "time": 616,
-    "timeDay": 405,
+    "timeDay": 392,
     "timeWeek": 709,
-    "timeMonth": 511,
+    "timeMonth": 514,
     "timeYear": 616,
     "dailyMinutesDown": {
       "2022-06-29": 17,
@@ -115,9 +115,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 134,
-    "timeDay": 186,
+    "timeDay": 182,
     "timeWeek": 132,
-    "timeMonth": 142,
+    "timeMonth": 140,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2021-11-13": 21
@@ -129,15 +129,15 @@
     "icon": "https://bywhite0.github.io/status/logo-512.png",
     "slug": "status",
     "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "52.74%",
+    "uptime": "98.77%",
+    "uptimeDay": "55.41%",
     "uptimeWeek": "64.74%",
-    "uptimeMonth": "89.04%",
-    "uptimeYear": "98.75%",
+    "uptimeMonth": "89.16%",
+    "uptimeYear": "98.77%",
     "time": 146,
-    "timeDay": 124,
+    "timeDay": 130,
     "timeWeek": 131,
-    "timeMonth": 157,
+    "timeMonth": 155,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2022-06-29": 636,
@@ -149,7 +149,7 @@
       "2022-06-23": 878,
       "2022-06-22": 625,
       "2022-06-21": 503,
-      "2022-06-20": 122
+      "2022-06-20": 72
     }
   }
 ]
