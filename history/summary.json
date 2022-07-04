@@ -44,12 +44,12 @@
     "url": "https://bywhite.wodemo.net",
     "icon": "https://q1.qlogo.cn/g?b=qq&nk=3240558932&s=640&t=1",
     "slug": "wodemo",
-    "status": "up",
-    "uptime": "98.88%",
-    "uptimeDay": "75.82%",
-    "uptimeWeek": "66.22%",
-    "uptimeMonth": "89.94%",
-    "uptimeYear": "98.88%",
+    "status": "down",
+    "uptime": "98.89%",
+    "uptimeDay": "75.81%",
+    "uptimeWeek": "66.26%",
+    "uptimeMonth": "90.06%",
+    "uptimeYear": "98.89%",
     "time": 15104,
     "timeDay": 18308,
     "timeWeek": 16500,
@@ -65,7 +65,7 @@
       "2022-06-28": 537,
       "2022-06-27": 527,
       "2022-06-26": 312,
-      "2022-06-25": 176
+      "2022-06-25": 127
     }
   },
   {
@@ -80,9 +80,9 @@
     "uptimeMonth": "99.40%",
     "uptimeYear": "97.99%",
     "time": 608,
-    "timeDay": 463,
-    "timeWeek": 469,
-    "timeMonth": 498,
+    "timeDay": 461,
+    "timeWeek": 472,
+    "timeMonth": 500,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2022-07-01": 21,
@@ -117,9 +117,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 133,
-    "timeDay": 97,
-    "timeWeek": 115,
-    "timeMonth": 132,
+    "timeDay": 101,
+    "timeWeek": 118,
+    "timeMonth": 134,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2021-11-13": 21
@@ -131,15 +131,15 @@
     "icon": "https://bywhite0.github.io/status/logo-512.png",
     "slug": "status",
     "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "75.82%",
-    "uptimeWeek": "64.05%",
-    "uptimeMonth": "89.75%",
-    "uptimeYear": "98.85%",
+    "uptime": "98.86%",
+    "uptimeDay": "75.80%",
+    "uptimeWeek": "64.09%",
+    "uptimeMonth": "89.79%",
+    "uptimeYear": "98.86%",
     "time": 148,
-    "timeDay": 386,
-    "timeWeek": 171,
-    "timeMonth": 163,
+    "timeDay": 343,
+    "timeWeek": 173,
+    "timeMonth": 165,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2022-07-04": 347,
@@ -151,7 +151,7 @@
       "2022-06-28": 537,
       "2022-06-27": 527,
       "2022-06-26": 312,
-      "2022-06-25": 44
+      "2022-06-25": 25
     }
   }
 ]
