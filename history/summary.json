@@ -44,16 +44,16 @@
     "url": "https://bywhite.wodemo.net",
     "icon": "https://q1.qlogo.cn/g?b=qq&nk=3240558932&s=640&t=1",
     "slug": "wodemo",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "65.34%",
-    "uptimeWeek": "67.29%",
-    "uptimeMonth": "89.40%",
-    "uptimeYear": "98.82%",
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "71.63%",
+    "uptimeWeek": "67.44%",
+    "uptimeMonth": "89.45%",
+    "uptimeYear": "98.83%",
     "time": 15110,
-    "timeDay": 13659,
-    "timeWeek": 16464,
-    "timeMonth": 18197,
+    "timeDay": 12807,
+    "timeWeek": 16356,
+    "timeMonth": 18194,
     "timeYear": 15110,
     "dailyMinutesDown": {
       "2022-07-06": 31,
@@ -66,7 +66,7 @@
       "2022-06-29": 625,
       "2022-06-28": 537,
       "2022-06-27": 527,
-      "2022-06-26": 142
+      "2022-06-26": 121
     }
   },
   {
@@ -77,12 +77,12 @@
     "status": "up",
     "uptime": "98.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.83%",
+    "uptimeWeek": "97.92%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "98.00%",
     "time": 608,
     "timeDay": 501,
-    "timeWeek": 474,
+    "timeWeek": 479,
     "timeMonth": 500,
     "timeYear": 608,
     "dailyMinutesDown": {
@@ -132,18 +132,18 @@
     "icon": "https://bywhite0.github.io/status/logo-512.png",
     "slug": "status",
     "status": "up",
-    "uptime": "98.79%",
-    "uptimeDay": "65.35%",
-    "uptimeWeek": "65.12%",
-    "uptimeMonth": "89.15%",
-    "uptimeYear": "98.79%",
+    "uptime": "98.80%",
+    "uptimeDay": "71.61%",
+    "uptimeWeek": "65.36%",
+    "uptimeMonth": "89.22%",
+    "uptimeYear": "98.80%",
     "time": 149,
     "timeDay": 368,
-    "timeWeek": 185,
+    "timeWeek": 187,
     "timeMonth": 167,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2022-07-06": 31,
+      "2022-07-06": 32,
       "2022-07-05": 540,
       "2022-07-04": 363,
       "2022-07-03": 260,
@@ -152,8 +152,7 @@
       "2022-06-30": 786,
       "2022-06-29": 642,
       "2022-06-28": 537,
-      "2022-06-27": 527,
-      "2022-06-26": 33
+      "2022-06-27": 527
     }
   }
 ]
