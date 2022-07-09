@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 70,
+    "timeDay": 61,
     "timeWeek": 81,
-    "timeMonth": 94,
+    "timeMonth": 95,
     "timeYear": 102,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 300,
-    "timeDay": 302,
-    "timeWeek": 268,
-    "timeMonth": 285,
+    "timeDay": 342,
+    "timeWeek": 263,
+    "timeMonth": 278,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2022-04-26": 19,
@@ -44,15 +44,15 @@
     "url": "https://bywhite.wodemo.net",
     "icon": "https://q1.qlogo.cn/g?b=qq&nk=3240558932&s=640&t=1",
     "slug": "wodemo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "69.14%",
+    "uptimeDay": "69.13%",
     "uptimeWeek": "73.25%",
-    "uptimeMonth": "91.21%",
+    "uptimeMonth": "91.25%",
     "uptimeYear": "99.04%",
     "time": 15262,
-    "timeDay": 17020,
-    "timeWeek": 17479,
+    "timeDay": 17230,
+    "timeWeek": 17467,
     "timeMonth": 18154,
     "timeYear": 15262,
     "dailyMinutesDown": {
@@ -65,7 +65,7 @@
       "2022-07-03": 260,
       "2022-07-02": 577,
       "2022-07-01": 436,
-      "2022-06-30": 140
+      "2022-06-30": 123
     }
   },
   {
@@ -80,9 +80,9 @@
     "uptimeMonth": "99.40%",
     "uptimeYear": "98.02%",
     "time": 607,
-    "timeDay": 554,
-    "timeWeek": 519,
-    "timeMonth": 509,
+    "timeDay": 355,
+    "timeWeek": 504,
+    "timeMonth": 511,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2022-07-01": 21,
@@ -117,9 +117,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 133,
-    "timeDay": 70,
-    "timeWeek": 122,
-    "timeMonth": 139,
+    "timeDay": 49,
+    "timeWeek": 117,
+    "timeMonth": 141,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2021-11-13": 21
@@ -131,15 +131,15 @@
     "icon": "https://bywhite0.github.io/status/logo-512.png",
     "slug": "status",
     "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "69.14%",
-    "uptimeWeek": "73.25%",
-    "uptimeMonth": "91.20%",
-    "uptimeYear": "99.03%",
+    "uptime": "99.05%",
+    "uptimeDay": "69.12%",
+    "uptimeWeek": "73.24%",
+    "uptimeMonth": "91.33%",
+    "uptimeYear": "99.05%",
     "time": 149,
-    "timeDay": 248,
-    "timeWeek": 258,
-    "timeMonth": 171,
+    "timeDay": 69,
+    "timeWeek": 267,
+    "timeMonth": 172,
     "timeYear": 149,
     "dailyMinutesDown": {
       "2022-07-09": 445,
@@ -151,7 +151,7 @@
       "2022-07-03": 260,
       "2022-07-02": 577,
       "2022-07-01": 457,
-      "2022-06-30": 123
+      "2022-06-30": 65
     }
   }
 ]
