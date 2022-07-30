@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 87,
-    "timeWeek": 101,
-    "timeMonth": 92,
+    "timeDay": 82,
+    "timeWeek": 89,
+    "timeMonth": 91,
     "timeYear": 101,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 302,
-    "timeDay": 174,
+    "timeDay": 162,
     "timeWeek": 236,
-    "timeMonth": 312,
+    "timeMonth": 318,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2022-04-26": 19,
@@ -44,16 +44,16 @@
     "url": "https://bywhite.wodemo.net",
     "icon": "https://q1.qlogo.cn/g?b=qq&nk=3240558932&s=640&t=1",
     "slug": "wodemo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "89.32%",
+    "uptimeDay": "89.31%",
     "uptimeWeek": "82.78%",
-    "uptimeMonth": "90.63%",
+    "uptimeMonth": "90.68%",
     "uptimeYear": "99.05%",
     "time": 15221,
-    "timeDay": 15797,
+    "timeDay": 15989,
     "timeWeek": 13702,
-    "timeMonth": 15770,
+    "timeMonth": 15785,
     "timeYear": 15221,
     "dailyMinutesDown": {
       "2022-07-30": 155,
@@ -69,7 +69,7 @@
       "2022-07-20": 357,
       "2022-07-19": 186,
       "2022-07-18": 409,
-      "2022-07-17": 316
+      "2022-07-17": 291
     }
   },
   {
@@ -84,7 +84,7 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "98.15%",
     "time": 599,
-    "timeDay": 427,
+    "timeDay": 486,
     "timeWeek": 423,
     "timeMonth": 489,
     "timeYear": 599,
@@ -122,7 +122,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 87,
+    "timeDay": 27,
     "timeWeek": 101,
     "timeMonth": 129,
     "timeYear": 133,
@@ -136,13 +136,13 @@
     "icon": "https://bywhite0.github.io/status/logo-512.png",
     "slug": "status",
     "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "89.32%",
+    "uptime": "99.05%",
+    "uptimeDay": "89.30%",
     "uptimeWeek": "82.78%",
-    "uptimeMonth": "90.54%",
-    "uptimeYear": "99.04%",
+    "uptimeMonth": "90.65%",
+    "uptimeYear": "99.05%",
     "time": 153,
-    "timeDay": 210,
+    "timeDay": 346,
     "timeWeek": 175,
     "timeMonth": 211,
     "timeYear": 153,
@@ -160,7 +160,7 @@
       "2022-07-20": 357,
       "2022-07-19": 248,
       "2022-07-18": 409,
-      "2022-07-17": 291
+      "2022-07-17": 243
     }
   }
 ]
