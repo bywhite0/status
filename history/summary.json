@@ -44,16 +44,16 @@
     "url": "https://bywhite.wodemo.net",
     "icon": "https://q1.qlogo.cn/g?b=qq&nk=3240558932&s=640&t=1",
     "slug": "wodemo",
-    "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "86.98%",
-    "uptimeWeek": "80.99%",
-    "uptimeMonth": "90.31%",
-    "uptimeYear": "99.01%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "86.97%",
+    "uptimeWeek": "81.48%",
+    "uptimeMonth": "90.42%",
+    "uptimeYear": "99.02%",
     "time": 15208,
     "timeDay": 14457,
-    "timeWeek": 13372,
-    "timeMonth": 15659,
+    "timeWeek": 13171,
+    "timeMonth": 15661,
     "timeYear": 15208,
     "dailyMinutesDown": {
       "2022-07-30": 62,
@@ -70,7 +70,7 @@
       "2022-07-19": 186,
       "2022-07-18": 409,
       "2022-07-17": 465,
-      "2022-07-16": 83
+      "2022-07-16": 34
     }
   },
   {
@@ -79,15 +79,15 @@
     "icon": "https://bywhite0.github.io/android-chrome-512x512.png",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "98.14%",
+    "uptime": "98.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "98.14%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "98.15%",
     "time": 600,
     "timeDay": 367,
     "timeWeek": 470,
-    "timeMonth": 490,
+    "timeMonth": 493,
     "timeYear": 600,
     "dailyMinutesDown": {
       "2022-07-19": 62,
@@ -138,17 +138,17 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "86.98%",
-    "uptimeWeek": "80.99%",
-    "uptimeMonth": "90.28%",
+    "uptimeDay": "86.94%",
+    "uptimeWeek": "81.48%",
+    "uptimeMonth": "90.35%",
     "uptimeYear": "99.01%",
     "time": 153,
     "timeDay": 73,
     "timeWeek": 196,
-    "timeMonth": 202,
+    "timeMonth": 209,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2022-07-30": 62,
+      "2022-07-30": 63,
       "2022-07-29": 152,
       "2022-07-28": 229,
       "2022-07-27": 306,
@@ -162,7 +162,7 @@
       "2022-07-19": 248,
       "2022-07-18": 409,
       "2022-07-17": 465,
-      "2022-07-16": 34
+      "2022-07-16": 2
     }
   }
 ]
