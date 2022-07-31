@@ -44,18 +44,19 @@
     "url": "https://bywhite.wodemo.net",
     "icon": "https://q1.qlogo.cn/g?b=qq&nk=3240558932&s=640&t=1",
     "slug": "wodemo",
-    "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "88.15%",
-    "uptimeWeek": "82.62%",
-    "uptimeMonth": "90.64%",
-    "uptimeYear": "99.05%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "89.38%",
+    "uptimeWeek": "82.85%",
+    "uptimeMonth": "90.75%",
+    "uptimeYear": "99.06%",
     "time": 15225,
-    "timeDay": 16183,
-    "timeWeek": 13785,
-    "timeMonth": 15672,
+    "timeDay": 16270,
+    "timeWeek": 13903,
+    "timeMonth": 15671,
     "timeYear": 15225,
     "dailyMinutesDown": {
+      "2022-07-31": 0,
       "2022-07-30": 172,
       "2022-07-29": 152,
       "2022-07-28": 229,
@@ -69,7 +70,7 @@
       "2022-07-20": 357,
       "2022-07-19": 186,
       "2022-07-18": 409,
-      "2022-07-17": 291
+      "2022-07-17": 243
     }
   },
   {
@@ -81,12 +82,12 @@
     "uptime": "98.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.53%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "98.15%",
     "time": 599,
     "timeDay": 486,
     "timeWeek": 423,
-    "timeMonth": 485,
+    "timeMonth": 483,
     "timeYear": 599,
     "dailyMinutesDown": {
       "2022-07-19": 62,
@@ -136,17 +137,18 @@
     "icon": "https://bywhite0.github.io/status/logo-512.png",
     "slug": "status",
     "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "88.15%",
-    "uptimeWeek": "82.62%",
-    "uptimeMonth": "90.61%",
-    "uptimeYear": "99.04%",
+    "uptime": "99.05%",
+    "uptimeDay": "89.36%",
+    "uptimeWeek": "82.84%",
+    "uptimeMonth": "90.67%",
+    "uptimeYear": "99.05%",
     "time": 153,
     "timeDay": 346,
     "timeWeek": 175,
-    "timeMonth": 203,
+    "timeMonth": 199,
     "timeYear": 153,
     "dailyMinutesDown": {
+      "2022-07-31": 1,
       "2022-07-30": 172,
       "2022-07-29": 152,
       "2022-07-28": 229,
@@ -160,7 +162,7 @@
       "2022-07-20": 357,
       "2022-07-19": 248,
       "2022-07-18": 409,
-      "2022-07-17": 243
+      "2022-07-17": 218
     }
   }
 ]
